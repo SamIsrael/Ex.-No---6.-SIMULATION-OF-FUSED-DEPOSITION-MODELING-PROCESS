@@ -21,7 +21,8 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/e05c97f8-b035-4e4d-86e8-f91a73aa95a8)
 
 ## Output:
-https://github.com/SamIsrael/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE.git
+![image](https://github.com/SamIsrael/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/118707037/18abc219-9035-43a2-b8af-2560f503ddbf)
+
 ### Name: Sam Israel D
 ### Register Number: 212222230128
 
